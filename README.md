@@ -29,4 +29,8 @@ WHEN I click on the Write icon in the navigation at the top of the page
 THEN I am presented with empty fields to enter a new note title and the note’s text in the right-hand column
 
 ### The project
-We want to be able to edit and save notes. 
+For this project, We want to be able to edit and save notes. 
+
+This project will use an Express.js back end and will save and retrieve the notes from a JSON file.
+
+The Front-end part of the project was provided to us. It includes an index.html file, a Css style sheet and a script.JS file
