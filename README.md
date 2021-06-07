@@ -37,3 +37,6 @@ The Front-end part of the project was provided to us. It includes an index.html 
 
 <img width="1199" alt="Screen Shot 2021-06-07 at 12 46 24 AM" src="https://user-images.githubusercontent.com/80069407/120965088-f7358b00-c729-11eb-8f7b-07ca70b9b9de.png">
 
+### Link to the deployed project
+
+ https://th-svn.github.io/note-taker/
